@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "622912192935",
+    "firebase_url": "https://com-severgames-lpx.firebaseio.com",
+    "project_id": "com-severgames-lpx",
+    "storage_bucket": "com-severgames-lpx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622912192935:android:5795cfccce99bfe466b682",
+        "android_client_info": {
+          "package_name": "com.severgames.lpx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622912192935-lm2ecmcauofp73kudd6jpkrhm4bk6nqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.severgames.lpx",
+            "certificate_hash": "fb598fed967a79ee002e5dc6ea86ece399a9e0cd"
+          }
+        },
+        {
+          "client_id": "622912192935-ss3nshc1pgl3qvoloo50inkcjeg1i2tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvxuByrqBe_CgY86t7MVSDo9f-I_rsxcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622912192935-ss3nshc1pgl3qvoloo50inkcjeg1i2tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Найди пару</string>
+    <string name="facebook_app_id">262134768278588</string>
+    <string name="fb_login_protocol_scheme">fb262134768278588</string>
+</resources>

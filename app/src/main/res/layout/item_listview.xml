@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/label"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fontFamily="@font/font_family"
+    android:textColor="@android:color/black"
+    android:textAlignment="center"
+    android:textSize="26sp"
+    android:textStyle="bold" >
+</TextView>
